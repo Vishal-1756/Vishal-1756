@@ -1,3 +1,6 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F70000&background=000000&center=true&vCenter=true&random=false&width=600&height=60&lines=Heya+%2C+Thanks+For+Visiting+My+GitHub+Profile+;I+Vishal%2C+Love+To+Code+Self+Learner+;From+India+)](https://git.io/typing-svg)
+
+
 # 💫 About Me:
 I Am Currently Working On College Projects Available For Freelancing 🤞
 
