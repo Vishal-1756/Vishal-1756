@@ -12,11 +12,6 @@ I Am Currently Working On College Projects Available For Freelancing 🤞
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Vishal-1756&theme=synthwave&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal-1756&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
-
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Vishal-1756&icon=8&color=6)](https://visitcount.itsvg.in)
