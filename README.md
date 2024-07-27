@@ -1,35 +1,34 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F70000&background=000000&center=true&vCenter=true&random=false&width=600&height=60&lines=Heya+%2C+Thanks+For+Visiting+My+GitHub+Profile+;I+Vishal%2C+Love+To+Code+;From+India+)](https://git.io/typing-svg)
+<div align="center">
+  <a href="https://t.me/Blank_Dark">
+    <img src="https://i.imgur.com/mCEdvQP.jpeg" alt="Vishal-1756" width="300" />
+  </a>
+</div>
 
+<br><br>
+<b>:- 🦉 Learning Telegram MiniApp Development</b>
+<br><br>
 
-```JSON
-{
-  "Dark": {
-    "name": "Vishal",
-    "age": "20+",
-    "hobby": "Nothing specific, still finding 🤔",
-    "channel": "@notcoding",
-    "profession": "Student"
-  },
-  "Quote": {
-    "text": "A father's tears and fears are unseen, his love is unexpressed but his care and protection remain as a pillar of strength throughout our lives.",
-    "author": "Unknown"
-  }
-}
-```
+<div align="center">
+  <a href="https://t.me/Blank_Dark">
+    <img src="https://github-widgetbox.vercel.app/api/profile?username=vishal-1756&data=followers,repositories,stars,commits&theme=carbon" alt="GitHub WidgetBox">
+  </a>
+</div>
 
-# Ik
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Linode](https://img.shields.io/badge/linode-00A95C?style=for-the-badge&logo=linode&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+<br><br>
 
-# Git Stats:
-![](https://github-readme-stats.vercel.app/api?username=Vishal-1756&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Vishal-1756&theme=synthwave&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal-1756&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<details>
+  <summary>  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25">  <b>Skills</b></summary>
+  <br>
+  <b>Languages:</b><br>
+  <img src="https://github-widgetbox.vercel.app/api/skills?languages=python,js,css,html,markdown,postgresql" alt="Languages" width="400">
+  <br><br>
+  <b>Tools:</b><br>
+  <img src="https://github-widgetbox.vercel.app/api/skills?tools=git,mongodb,wordpress,vercel,redis,heroku,aws" alt="Tools" width="400">
+</details>
 
-
----
-[![](https://visitcount.itsvg.in/api?id=Vishal-1756&icon=8&color=6)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Vishal1756) 
-
-  
+<br/>
+<p align="center">
+    <b>Tourist</b><br>
+    <img align="middle" src="https://profile-counter.glitch.me/vishal-1756/count.svg" alt="Visitor Count" />
+</p>
+<br />
